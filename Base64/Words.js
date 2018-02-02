@@ -1,3 +1,4 @@
+
 var Words = Collection.extend({
 	constructor: function(script) {
 		this.base();
